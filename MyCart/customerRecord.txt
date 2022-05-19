@@ -1,0 +1,13 @@
+_______________________________________
+Customer Name: Syed Ubed
+Address: Indore
+Date & time: 2022-05-1903:00:43.531464300
+Quantity: 4
+List of purchased items: 
+0:		 Rice 		 62
+1:		 Rice Bran Oil		 190
+2:		 Flour 		 25
+3:		 OnePlus 7T		 33000
+
+Total purchase amount: 33277.0
+_______________________________________

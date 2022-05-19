@@ -1,0 +1,11 @@
+Steps to run MyCart Application:
+
+1. Clone the repository on your desktop.
+2. Now you can see a folder named "MyCart" on your desktop.
+3. Open the folder 'MyCart' in any JAVA IDE.
+4. Head to 'src' folder and open any .java file.
+5. Run the application from IDE.
+6. You can see 'MyCart App' running in command line.
+
+
+_ Happy Shopping! _
